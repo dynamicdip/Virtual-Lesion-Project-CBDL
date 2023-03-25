@@ -6,6 +6,7 @@ Priyanka Chakraborty, Suman Saha, Gustavo Decob,Arpan Banerjeea, and Dipanjan Ro
 
 
 ## Overview
+<img width="776" alt="Screenshot 2023-03-25 at 8 38 43 AM" src="https://user-images.githubusercontent.com/5264157/227688331-cd8833dd-5b99-4da1-9ab8-5a78a1126921.png">
 
 
 
